@@ -8,8 +8,8 @@ Aquí encontrarás los proyectos destacados y los respectivos enlaces para cada 
 
 | Ciclo  | Proyecto       | Enlace                                                  |
 |--------|----------------|---------------------------------------------------------|
-| 2024-1 | Teach Call     | [Enlace](./grupos-ganadores/mure/README.md)             |
-| 2023-2 | Mure           | [Enlace](./grupos-ganadores/teach-call/)                |
+| 2024-1 | Mure           | [Enlace](./grupos-ganadores/mure/README.md)             |
+| 2023-2 | Teach Call     | [Enlace](./grupos-ganadores/teach-call/)                |
 
 ## Estructura del Repositorio
 
