@@ -12,11 +12,11 @@ The project is developed using **Java and Spring Boot 🌱** for the backend, wh
 
 ## Project Members 🤝
 
-| Name              | Email                                                                |
-|-------------------|----------------------------------------------------------------------|
-| Joaquin Salinas   | [joaquin.salinas@utec.edu.pe](mailto:joaquin.salinas@utec.edu.pe)    |
-| Guillermo Galvez  | [jose.galvez.p@utec.edu.pe](mailto:jose.galvez.p@utec.edu.pe)        |
-| Alejandro Escobar | [alejandro.escobar@utec.edu.pe](mailto:alejandro.escobar@utec.edu.pe)|
+| Name              | GitHub User                                              |  Email                                                                |
+|-------------------|----------------------------------------------------------|-----------------------------------------------------------------------|
+| Joaquin Salinas   | [joaquinsalinas06](https://github.com/joaquinsalinas06)  |[joaquin.salinas@utec.edu.pe](mailto:joaquin.salinas@utec.edu.pe)      |
+| Guillermo Galvez  | [KarTaGo124](https://github.com/KarTaGo124)              |[jose.galvez.p@utec.edu.pe](mailto:jose.galvez.p@utec.edu.pe)          |
+| Alejandro Escobar | [AlejandroEN](https://github.com/AlejandroEN )           |[alejandro.escobar@utec.edu.pe](mailto:alejandro.escobar@utec.edu.pe)  |
 
 ## Acknowledgments 🫶
 
