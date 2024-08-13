@@ -4,6 +4,11 @@
 
 TeachCall, the winning project of UTEC's Platform-Based Development Course (CS2031), is an innovative B2C platform designed to connect teachers with students seeking private lessons. Developed in Java with Spring Boot, React, and React Native, the project stands out for its functionality and design, demonstrating the perfect synergy between creativity and technique.
 
+## Project Repositories 📁
+
+- **Backend**: [TeachCall Backend Repository](https://github.com/CS2031-DBP/proyecto-final-teachcall-back.git)
+- **Frontend Web**: [TeachCall Frontend Web Repository](https://github.com/Mauwt/Teach-Call-Front.git)
+
 ## Team Members 👥
 
 | Name                         | Github User                                        | Contact                                                            |
