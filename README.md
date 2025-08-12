@@ -8,9 +8,9 @@ Aquí encontrarás los proyectos destacados y los respectivos enlaces para cada 
 
 | Ciclo  | Proyecto       | Enlace                                                  |
 |--------|----------------|---------------------------------------------------------|
-| 2025-1 | UniLife        | [Enlace](./grupos-ganadores/unilife/README.md)          |
-| 2024-1 | Mure           | [Enlace](./grupos-ganadores/mure/README.md)             |
-| 2023-2 | TeachCall      | [Enlace](./grupos-ganadores/teachcall/README.md)        |
+| 2025-1 | UniLife        | [Enlace](./unilife/README.md)          |
+| 2024-1 | Mure           | [Enlace](./mure/README.md)             |
+| 2023-2 | TeachCall      | [Enlace](./teachcall/README.md)        |
 
 ## Estructura del Repositorio
 
