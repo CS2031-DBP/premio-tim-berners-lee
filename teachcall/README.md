@@ -1,4 +1,4 @@
-# TeachCall 🎓📞 - 2023-2 Winner of the Platform-Based Development Course (CS2031)
+# TeachCall: Connecting Teachers with Students for Private Lessons 🎓📞
 
 ## Description 📝
 
