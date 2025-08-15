@@ -16,7 +16,7 @@ TeachCall, the winning project of UTEC's Platform-Based Development Course (CS20
 | Gabriel Eduardo Romero Diez  | [gabrielromerod](https://github.com/gabrielromerod)| [gabriel.romero@utec.edu.pe](mailto:gabriel.romero@utec.edu.pe)    |
 | Gustavo Tadeo Ortiz Vasquez  | [gortiz1234](https://github.com/gortiz1234)        | [gustavo.ortiz@utec.edu.pe](mailto:gustavo.ortiz@utec.edu.pe)      |
 | David Mauricio Jacobo Ruiz   | [Mauwt](https://github.com/Mauwt)                  | [david.jacobo@utec.edu.pe](mailto:david.jacobo@utec.edu.pe)        |
-| Kayla De Vivanco Briceño     | [kdevivanco](https://github.com/kdevivanco)        | [kayla.devivanco@utec.edu.pe](kayla.devivanco@utec.edu.pe)         |
+| Kayla De Vivanco Briceño     | [kdevivanco](https://github.com/kdevivanco)        | [kayla.devivanco@utec.edu.pe](mailto:kayla.devivanco@utec.edu.pe)         |
 
 ## Architecture and Technologies Used 🏗️
 
