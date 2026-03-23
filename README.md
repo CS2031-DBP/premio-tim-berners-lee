@@ -8,6 +8,7 @@ Aquí encontrarás los proyectos destacados y los respectivos enlaces para cada 
 
 | Ciclo  | Proyecto       | Enlace                                                  |
 |--------|----------------|---------------------------------------------------------|
+| 2025-2 | Thryft        | [Enlace](./thryft/README.md)          |
 | 2025-1 | UniLife        | [Enlace](./unilife/README.md)          |
 | 2024-1 | Mure           | [Enlace](./mure/README.md)             |
 | 2023-2 | TeachCall      | [Enlace](./teachcall/README.md)        |
